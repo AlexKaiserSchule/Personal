@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -34,5 +35,11 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
+
+<body>
+  <?php
+  include '../assets/parts/header.html'
+  ?>
+</body>
 
 </html>
